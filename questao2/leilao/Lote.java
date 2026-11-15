@@ -1,4 +1,4 @@
-package questao2.leilao;
+package leilao;
 
 public class Lote {
 
