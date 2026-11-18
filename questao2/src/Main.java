@@ -34,14 +34,22 @@ public class Main {
                 r("4000.00"), r("6000.00"));
 
         quadro.acompanhar(ana);
+
         quadro.acompanhar(bruno);
+        
         quadro.acompanhar(carla);
+
         quadro.acompanhar(painel);
+
+
         quadro.acompanhar(auditor);
+
 
         notebook.acompanhar(bruno);
         notebook.acompanhar(carla);
+
         notebook.acompanhar(painel);
+
         notebook.acompanhar(auditor);
 
         
