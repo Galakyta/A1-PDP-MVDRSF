@@ -1,6 +1,5 @@
 package sistema;
 
-import fabrica.FabricaDeRecursos;
 import java.math.BigDecimal;
 import java.util.ArrayList;
 import java.util.Collections;
@@ -10,9 +9,7 @@ import recursos.ArmazenamentoObjetos;
 import recursos.FilaDeMensagens;
 import recursos.MaquinaVirtual;
 
-/**
- * Representa o ambiente criado no provedor escolhido.
- */
+
 public final class Ambiente {
     private final String nome;
     private final String provedor;
